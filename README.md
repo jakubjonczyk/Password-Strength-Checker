@@ -17,7 +17,7 @@ The application is used to check the password strength. The "ML-save" file is us
 
 ## Usage
 
-Download the code and run the ML-save.py and then ML-load (or just ML-load) executable itself.
+Download the code and run the ML-save.py and then ML-load executable itself.
 
 ## Project Status
 Project is: complete
