@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## General Information
-The application is used to check the password strength. The "ML-save" file is used to create and save the model, and the "ML-load" file is used to load the previously saved model and check the password when it is possible to enter it.
+The application is used to check the password strength. The "ML-save" file is used to create and save the model, and the "ML-load" file is used to load the previously saved model and check the password when it is possible to enter it. (The dataset was downloaded from https://www.kaggle.com/datasets/bhavikbb/password-strength-classifier-dataset and belongd to the Original Authors).
 
 ## Technologies Used
 - Python
